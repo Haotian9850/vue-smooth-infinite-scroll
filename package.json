@@ -1,15 +1,23 @@
 {
   "name": "vue-smooth-infinite-scroll",
   "version": "1.0.1",
-  "description": "A high-performance Vue.js plugin to support infinite scroll with virtual DOM list",
+  "description": "A high-performance Vue.js plugin with virtual DOM list to support fast, smooth infinite scroll | 一款基于虚拟列表的高性能Vue.js无限加载组件",
   "main": "src/index.js",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/Haotian9850/vue-smooth-infinite-scroll.git"
+    "type": "git",
+    "url": "https://github.com/Haotian9850/vue-smooth-infinite-scroll.git"
   },
   "author": "hao",
   "license": "MIT",
   "private": false,
+  "keywords": [
+    "vue.js",
+    "vue",
+    "infinite scroll",
+    "virtual list",
+    "UI component",
+    "javascript"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "webpack --config config/webpack.config.js",
@@ -18,6 +26,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "lodash": "^4.17.21",
+    "readme-md-generator": "^1.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
