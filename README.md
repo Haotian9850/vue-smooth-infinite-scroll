@@ -9,7 +9,7 @@
   <a href="https://github.com/Haotian9850/vue-smooth-infinite-scroll/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/license" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Haotian9850/vue-smooth-infinite-scroll" />
   </a>
 </p>
@@ -18,11 +18,9 @@
 
 > A high-performance Vue.js plugin with virtual DOM list to support fast, smooth infinite scroll | 一款基于虚拟列表的高性能Vue.js无限加载组件
 
-### [Github](https://github.com/Haotian9850/vue-smooth-infinite-scroll)
+![Demo GIF](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
 
 ### [Demo](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
-
-![Demo GIF](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
 
 ## Install
 ```sh
@@ -137,7 +135,7 @@ Give a ⭐️ if this project helped you!
 ## License
 
 Copyright © 2022 [hao](https://github.com/Haotian9850).<br />
-This project is [MIT](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
