@@ -20,7 +20,9 @@
 
 ### [Github](https://github.com/Haotian9850/vue-smooth-infinite-scroll)
 
-### [Demo](https://github.com/Haotian9850/vue-smooth-infinite-scroll)
+### [Demo](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
+
+![Demo GIF](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
 
 ## Install
 ```sh
