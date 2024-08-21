@@ -16,7 +16,7 @@
 
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-> A high-performance Vue.js plugin with virtual DOM list to support fast, smooth infinite scroll | 一款基于虚拟列表的高性能Vue.js无限加载组件
+> A high-performance Vue.js plugin with virtual DOM list to support fast, smooth infinite scroll
 
 ![Demo GIF](https://github.com/Haotian9850/vue-smooth-infinite-scroll/blob/main/gif/vue-smooth-infinite-scroll_demo_compressed.gif)
 
